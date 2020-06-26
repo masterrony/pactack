@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/pactack/static/css/main.f36f8c61.chunk.css",
-    "main.js": "/pactack/static/js/main.16b801c2.chunk.js",
-    "main.js.map": "/pactack/static/js/main.16b801c2.chunk.js.map",
+    "main.css": "/pactack/static/css/main.43281f89.chunk.css",
+    "main.js": "/pactack/static/js/main.1e14dd2d.chunk.js",
+    "main.js.map": "/pactack/static/js/main.1e14dd2d.chunk.js.map",
     "runtime-main.js": "/pactack/static/js/runtime-main.90c88a83.js",
     "runtime-main.js.map": "/pactack/static/js/runtime-main.90c88a83.js.map",
     "static/css/2.50562f44.chunk.css": "/pactack/static/css/2.50562f44.chunk.css",
-    "static/js/2.89ddaf35.chunk.js": "/pactack/static/js/2.89ddaf35.chunk.js",
-    "static/js/2.89ddaf35.chunk.js.map": "/pactack/static/js/2.89ddaf35.chunk.js.map",
+    "static/js/2.7a5406c3.chunk.js": "/pactack/static/js/2.7a5406c3.chunk.js",
+    "static/js/2.7a5406c3.chunk.js.map": "/pactack/static/js/2.7a5406c3.chunk.js.map",
     "index.html": "/pactack/index.html",
-    "precache-manifest.214734eb931573b60941cdbe494c244d.js": "/pactack/precache-manifest.214734eb931573b60941cdbe494c244d.js",
+    "precache-manifest.ab6ca70e8facf9a96ea0b4c1c23bf99d.js": "/pactack/precache-manifest.ab6ca70e8facf9a96ea0b4c1c23bf99d.js",
     "service-worker.js": "/pactack/service-worker.js",
     "static/css/2.50562f44.chunk.css.map": "/pactack/static/css/2.50562f44.chunk.css.map",
-    "static/css/main.f36f8c61.chunk.css.map": "/pactack/static/css/main.f36f8c61.chunk.css.map",
-    "static/js/2.89ddaf35.chunk.js.LICENSE.txt": "/pactack/static/js/2.89ddaf35.chunk.js.LICENSE.txt",
+    "static/css/main.43281f89.chunk.css.map": "/pactack/static/css/main.43281f89.chunk.css.map",
+    "static/js/2.7a5406c3.chunk.js.LICENSE.txt": "/pactack/static/js/2.7a5406c3.chunk.js.LICENSE.txt",
     "static/media/app_store.png": "/pactack/static/media/app_store.1a74d806.png",
     "static/media/background.png": "/pactack/static/media/background.a71ad2ae.png",
     "static/media/background_first.png": "/pactack/static/media/background_first.57f87c60.png",
@@ -25,13 +25,14 @@
     "static/media/intro.png": "/pactack/static/media/intro.dbca78fd.png",
     "static/media/play_store.png": "/pactack/static/media/play_store.195e8352.png",
     "static/media/retail.jpg": "/pactack/static/media/retail.deb8562f.jpg",
+    "static/media/round.png": "/pactack/static/media/round.931da55f.png",
     "static/media/salads.png": "/pactack/static/media/salads.0849921d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.90c88a83.js",
     "static/css/2.50562f44.chunk.css",
-    "static/js/2.89ddaf35.chunk.js",
-    "static/css/main.f36f8c61.chunk.css",
-    "static/js/main.16b801c2.chunk.js"
+    "static/js/2.7a5406c3.chunk.js",
+    "static/css/main.43281f89.chunk.css",
+    "static/js/main.1e14dd2d.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pactack/precache-manifest.214734eb931573b60941cdbe494c244d.js"
+  "/pactack/precache-manifest.ab6ca70e8facf9a96ea0b4c1c23bf99d.js"
 );
 
 self.addEventListener('message', (event) => {
