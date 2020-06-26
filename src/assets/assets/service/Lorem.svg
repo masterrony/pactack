@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2008 710" width="2008" height="710">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M287 -1459L1727 -1459L1727 4145L287 4145Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="753" y1="58.79" x2="934" y2="611.64">
+			<stop offset="0" stop-color="#3b5ef8"  />
+			<stop offset="0.948" stop-color="#26f5ff"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.549;fill: url(#grd1) } 
+	</style>
+	<g id="PayTack-1" clip-path="url(#cp1)">
+		<g id="Features Section">
+			<path id="Rectangle" fill-rule="evenodd" class="shp0" d="M279.67 6.27C888.48 60.8 1194.38 -22.62 1719.72 6.27C2245.05 35.17 1927.9 715.56 1740.09 688.33C1552.27 661.1 1173.94 718.51 915.77 679.22C657.59 639.94 281.6 779.82 262.21 661.1C242.81 542.38 -329.13 -48.25 279.67 6.27Z" />
+		</g>
+	</g>
+</svg>

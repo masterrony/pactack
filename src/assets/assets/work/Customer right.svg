@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 599 518" width="599" height="518">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1344 -2264L96 -2264L96 3340L-1344 3340Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.102;fill: #e9f4fe } 
+	</style>
+	<g id="PayTack-1" clip-path="url(#cp1)">
+		<g id="Group 28">
+			<path id="Ellipse 34" fill-rule="evenodd" class="shp0" d="M551.62 386.41C499.94 489.8 299.98 552.56 225.77 495.41C151.56 438.26 -42.58 244.4 9.1 141.01C60.78 37.61 173.74 81.96 419.07 86.17C664.39 90.38 603.3 283.02 551.62 386.41Z" />
+			<path id="Ellipse 36" fill-rule="evenodd" class="shp0" d="M480.7 473.19C394.97 550.48 137.12 443.92 88.84 363.61C40.57 283.31 -20.69 123.77 65.05 46.49C150.78 -30.79 197.61 -5.51 424.41 88.13C651.22 181.76 566.43 395.91 480.7 473.19Z" />
+		</g>
+	</g>
+</svg>
