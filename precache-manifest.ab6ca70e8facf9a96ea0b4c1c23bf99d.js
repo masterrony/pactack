@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e82c93c5a4932e76add8d58f3c5ad7ef",
+    "revision": "b9c35fe6c880d71c1d00b2bfc5201041",
     "url": "/pactack/index.html"
   },
   {
-    "revision": "e3a447fc6fe93459ec0a",
+    "revision": "81db404e33100d53c2ae",
     "url": "/pactack/static/css/2.50562f44.chunk.css"
   },
   {
-    "revision": "0f0eab6b4dbe4d86c5ee",
-    "url": "/pactack/static/css/main.f36f8c61.chunk.css"
+    "revision": "1803e9d42e02badd5506",
+    "url": "/pactack/static/css/main.43281f89.chunk.css"
   },
   {
-    "revision": "e3a447fc6fe93459ec0a",
-    "url": "/pactack/static/js/2.89ddaf35.chunk.js"
+    "revision": "81db404e33100d53c2ae",
+    "url": "/pactack/static/js/2.7a5406c3.chunk.js"
   },
   {
     "revision": "d4d23dbe09a501f664aa91938bc82e3c",
-    "url": "/pactack/static/js/2.89ddaf35.chunk.js.LICENSE.txt"
+    "url": "/pactack/static/js/2.7a5406c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f0eab6b4dbe4d86c5ee",
-    "url": "/pactack/static/js/main.16b801c2.chunk.js"
+    "revision": "1803e9d42e02badd5506",
+    "url": "/pactack/static/js/main.1e14dd2d.chunk.js"
   },
   {
     "revision": "b633172528d605a39408",
@@ -102,6 +102,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "deb8562f0fe003faa46e49459682ddfd",
     "url": "/pactack/static/media/retail.deb8562f.jpg"
+  },
+  {
+    "revision": "931da55f8b4c176378a310f17b570204",
+    "url": "/pactack/static/media/round.931da55f.png"
   },
   {
     "revision": "0849921db319c9a38819941ebc0b5514",
