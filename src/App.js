@@ -29,7 +29,7 @@ class App extends Component {
         
         <section className="sc-title" id="title">
           <img className="bg-img bg-img-first" src={firstBackround}></img>
-          <img className="bg-img bg-img-second" src={secondBackround}></img>
+          <img className="bg-img bg-img-second" style={{transform:'translateY(-5%)'}} src={secondBackround}></img>
           <div className="container-fluid">
             <Header />
             <Intro />

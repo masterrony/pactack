@@ -10,7 +10,7 @@ import NavList from  './NavList'
 class Header extends Component {
   render() {
     return  (
-      <nav className="navbar navbar-expand-lg navbar-dark">
+      <nav className="navbar navbar-expand-lg navbar-dark fixed-top">
         <Logo />
         <Toggler />
         <NavList />

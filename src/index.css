@@ -54,12 +54,14 @@ div.container-fluid {
 
 section.sc-title {
   padding-top: 1%;
-  z-index: 2;
+  z-index: 3;
 }
 
 .navbar {
-  background: transparent;
+  position: absolute;
   color: #fff;
+  background: linear-gradient(140.57deg, #3B5EF8 -1.91%, #00F3FF 162.61%);
+  z-index: 1000;
 }
 
 .navbar-dark .navbar-nav .nav-item {
@@ -134,6 +136,16 @@ section.sc-video div.div-video-youtube {
   padding-right: 7%;
   border-radius: 15px;
   height: 320px;
+}
+
+section.sc-video div.div-video-youtube .youtube-wrapper {
+  position: relative;
+}
+
+section.sc-video div.div-video-youtube .youtube-wrapper .div-round-img {
+  position: absolute;
+  top: -22%;
+  z-index: -1;
 }
 
 
@@ -218,6 +230,7 @@ section.sc-work-customer {
 section.sc-work-customer div.customer-content div.customer-card {
   box-shadow: 0px 15px 15px rgba(59, 94, 248, 0.25);
   border-radius: 4px;
+  border: none;
 }
 
 section.sc-work-customer div.customer-content div.customer-card img {
@@ -259,7 +272,7 @@ section.sc-happy-customer div.div-brand img.brand-img {
 /* Faq Style */
 section.sc-faq {
   padding: 9% 0;
-  transform: translateY(-3%);
+  transform: translateY(-4%);
   z-index: 0;
 }
 
@@ -411,7 +424,7 @@ div.div-subscribe .col-8 {
 }
 
 div.div-subscribe input {
-  padding: 20px 17px;
+  padding: 20.5px 17px;
 }
 
 div.div-subscribe input, div.div-subscribe button {
@@ -427,7 +440,7 @@ div.div-subscribe button {
   color: #111;
   border: none;
   outline: none;
-  padding: 14px 17px;
+  padding: 13px 17px;
 }
 
 p.copyright {

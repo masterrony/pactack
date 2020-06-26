@@ -35,7 +35,7 @@ class Footer extends Component {
             </div>
 
             <div>
-              <div className="div-footer-country">Seden <img src={swedenFlagImg} alt="sweden"></img></div>
+              <div className="div-footer-country">Sweden <img src={swedenFlagImg} alt="sweden"></img></div>
               <div className="div-footer-item">PayTack AB</div>
               <div className="div-footer-item">Anckargripsgatan 3.</div>
               <div className="div-footer-item">211 19 Malmo</div>
