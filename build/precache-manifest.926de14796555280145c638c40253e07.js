@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9c35fe6c880d71c1d00b2bfc5201041",
+    "revision": "55fac7493042e594f31f8dc70e4564d1",
     "url": "/pactack/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pactack/static/css/2.50562f44.chunk.css"
   },
   {
-    "revision": "1803e9d42e02badd5506",
-    "url": "/pactack/static/css/main.43281f89.chunk.css"
+    "revision": "c760bf7e2e3f030bc227",
+    "url": "/pactack/static/css/main.183e4dd0.chunk.css"
   },
   {
     "revision": "81db404e33100d53c2ae",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pactack/static/js/2.7a5406c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1803e9d42e02badd5506",
-    "url": "/pactack/static/js/main.1e14dd2d.chunk.js"
+    "revision": "c760bf7e2e3f030bc227",
+    "url": "/pactack/static/js/main.87d24119.chunk.js"
   },
   {
     "revision": "b633172528d605a39408",

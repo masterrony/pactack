@@ -58,10 +58,13 @@ section.sc-title {
 }
 
 .navbar {
-  position: absolute;
   color: #fff;
   background: linear-gradient(140.57deg, #3B5EF8 -1.91%, #00F3FF 162.61%);
   z-index: 1000;
+}
+
+.custom-navbar {
+  padding: 1% 9% !important;
 }
 
 .navbar-dark .navbar-nav .nav-item {
