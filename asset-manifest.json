@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/github.io/static/css/main.f36f8c61.chunk.css",
+    "main.js": "/github.io/static/js/main.b33dcc7c.chunk.js",
+    "main.js.map": "/github.io/static/js/main.b33dcc7c.chunk.js.map",
+    "runtime-main.js": "/github.io/static/js/runtime-main.9843539f.js",
+    "runtime-main.js.map": "/github.io/static/js/runtime-main.9843539f.js.map",
+    "static/css/2.98df6ca4.chunk.css": "/github.io/static/css/2.98df6ca4.chunk.css",
+    "static/js/2.89ddaf35.chunk.js": "/github.io/static/js/2.89ddaf35.chunk.js",
+    "static/js/2.89ddaf35.chunk.js.map": "/github.io/static/js/2.89ddaf35.chunk.js.map",
+    "index.html": "/github.io/index.html",
+    "precache-manifest.08bb5066e80edf50fab3f8069405b333.js": "/github.io/precache-manifest.08bb5066e80edf50fab3f8069405b333.js",
+    "service-worker.js": "/github.io/service-worker.js",
+    "static/css/2.98df6ca4.chunk.css.map": "/github.io/static/css/2.98df6ca4.chunk.css.map",
+    "static/css/main.f36f8c61.chunk.css.map": "/github.io/static/css/main.f36f8c61.chunk.css.map",
+    "static/js/2.89ddaf35.chunk.js.LICENSE.txt": "/github.io/static/js/2.89ddaf35.chunk.js.LICENSE.txt",
+    "static/media/app_store.png": "/github.io/static/media/app_store.1a74d806.png",
+    "static/media/background.png": "/github.io/static/media/background.a71ad2ae.png",
+    "static/media/background_first.png": "/github.io/static/media/background_first.57f87c60.png",
+    "static/media/background_second.png": "/github.io/static/media/background_second.a1517c58.png",
+    "static/media/bar.jpg": "/github.io/static/media/bar.bbe9e49c.jpg",
+    "static/media/buddha.png": "/github.io/static/media/buddha.e93ef94c.png",
+    "static/media/cafe.jpg": "/github.io/static/media/cafe.e9a187ca.jpg",
+    "static/media/font-awesome.min.css": "/github.io/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/intro.png": "/github.io/static/media/intro.dbca78fd.png",
+    "static/media/play_store.png": "/github.io/static/media/play_store.195e8352.png",
+    "static/media/retail.jpg": "/github.io/static/media/retail.deb8562f.jpg",
+    "static/media/salads.png": "/github.io/static/media/salads.0849921d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9843539f.js",
+    "static/css/2.98df6ca4.chunk.css",
+    "static/js/2.89ddaf35.chunk.js",
+    "static/css/main.f36f8c61.chunk.css",
+    "static/js/main.b33dcc7c.chunk.js"
+  ]
+}
