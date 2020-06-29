@@ -7,6 +7,11 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #96E5FF !important;
+  margin: 0;
+}
+
+html, body, div#root, section.sc-title {
+  height: 100%;
 }
 
 code {
@@ -53,8 +58,9 @@ div.container-fluid {
 }
 
 section.sc-title {
-  padding-top: 1%;
+  padding-top: 7%;
   z-index: 3;
+  height: 100%;
 }
 
 .navbar {
@@ -86,7 +92,7 @@ section.sc-title div.div-intro {
   color: #fff;
   padding: 8% 0;
   padding-right: 7%;
-  font-family: Roboto;
+  font-family: Quicksand;
 }
 
 section.sc-title div.div-intro h1 {
@@ -143,6 +149,7 @@ section.sc-video div.div-video-youtube {
 
 section.sc-video div.div-video-youtube .youtube-wrapper {
   position: relative;
+  left: 5%;
 }
 
 section.sc-video div.div-video-youtube .youtube-wrapper .div-round-img {
@@ -238,7 +245,7 @@ section.sc-work-customer div.customer-content div.customer-card {
 
 section.sc-work-customer div.customer-content div.customer-card img {
   width: 100%;
-  height: 276px;
+  /* height: 276px; */
 }
 
 section.sc-work-customer div.customer-content div.customer-card .card-body .card-text {
@@ -277,6 +284,11 @@ section.sc-faq {
   padding: 9% 0;
   transform: translateY(-4%);
   z-index: 0;
+}
+
+section.sc-faq img.bg-img-fourth {
+  top: 30%;
+  height: 600px;
 }
 
 section.sc-faq div.faq-title h2 {
@@ -343,7 +355,7 @@ section.sc-contact div.contact-header {
 
 section.sc-contact div.contact-header h2 {
   font-size: 2.25rem;
-  font-weight: 500;
+  font-weight: bold;
   line-height: 45px;
   color: #212121;
 }
@@ -361,6 +373,7 @@ section.sc-contact form.form-contact {
 
 section.sc-contact form.form-contact div {
   margin-bottom: 13px;
+  margin-left: 0;
 }
 
 section.sc-contact form.form-contact input, section.sc-contact form.form-contact textarea {

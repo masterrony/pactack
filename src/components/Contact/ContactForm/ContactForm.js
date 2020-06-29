@@ -8,10 +8,10 @@ class ContactForm extends Component {
           <input type="text" name="company-name" className="form-control" placeholder="Company name" />
         </div>
         <div className="row">
-          <input type="email" name="company-email" className="form-control" placeholder="Company name" />
+          <input type="email" name="company-email" className="form-control" placeholder="Company email" />
         </div>
         <div className="row">
-          <input type="text" name="person-name" className="form-control" placeholder="Company name" />
+          <input type="text" name="person-name" className="form-control" placeholder="Contact person name" />
         </div>
         <div className="row">
           <textarea name="message" rows="4" className="form-control" placeholder="Type your message" />
